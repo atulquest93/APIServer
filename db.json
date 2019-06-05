@@ -1,29 +1,52 @@
 {
   "search": [
     {
-      "title": "Send Real Time Notification to Clients Through Pusher in PHP",
-      "url": "https://shareurcodes.com/blog/send real time notification to clients through pusher in php",
-      "image": "https://shareurcodes.com/photos//Screenshot__235_.png"
+      "id": 1,
+      "name": "Instagram",
+      "logo": "https://image.flaticon.com/icons/png/128/1409/1409946.png",
+      "website": "https://instagram.com"
     },
     {
-      "title": "How to Prevent Shell Attack in Image File Upload System in PHP",
-      "url": "https://shareurcodes.com/blog/how to prevent shell attack in image file upload system in php",
-      "image": "https://shareurcodes.com/photos//php-secure-image-uploading.jpg"
+      "id": 1,
+      "name": "Facebook",
+      "logo": "https://image.flaticon.com/icons/png/128/179/179319.png",
+      "website": "https://facebook.com"
     },
     {
-      "title": "Randomize  Multidimensional Associative Array in PHP",
-      "url": "https://shareurcodes.com/blog/randomize  multidimensional associative array in php",
-      "image": "https://shareurcodes.com/photos//Screenshot__227_.png"
+      "id": 1,
+      "name": "Whatsapp",
+      "logo": "https://image.flaticon.com/icons/png/128/733/733585.png",
+      "website": "https://whatsapp.com"
     },
     {
-      "title": "Create a SOAP Web Service in PHP Using NuSOAP",
-      "url": "https://shareurcodes.com/blog/create a soap web service in php using nusoap",
-      "image": "https://shareurcodes.com/photos//soap.jpg"
+      "id": 1,
+      "name": "Twitter",
+      "logo": "https://image.flaticon.com/icons/png/128/174/174876.png",
+      "website": "https://twitter.com"
     },
     {
-      "title": "Creating a simple REST API in PHP",
-      "url": "https://shareurcodes.com/blog/creating a simple rest api in php",
-      "image": "https://shareurcodes.com/photos//rest-api.jpg"
+      "id": 1,
+      "name": "Youtube",
+      "logo": "https://image.flaticon.com/icons/png/128/185/185983.png",
+      "website": "https://youtube.com"
+    },
+    {
+      "id": 1,
+      "name": "Google",
+      "logo": "https://image.flaticon.com/icons/png/128/281/281764.png",
+      "website": "https://google.com"
+    },
+    {
+      "id": 1,
+      "name": "Spotify",
+      "logo": "https://image.flaticon.com/icons/png/128/174/174872.png",
+      "website": "https://spotify.com"
+    },
+    {
+      "id": 1,
+      "name": "Paypal",
+      "logo": "https://image.flaticon.com/icons/png/128/174/174861.png",
+      "website": "https://paypal.com"
     }
   ]
 }
